@@ -55,8 +55,8 @@ const allJoined1 = word.join(''); // empty string '';
 const allJoined2 = word.join(' '); // empty string with a space '';
 // console.log(allJoined2);
 
-const allJoined3 = word.join(','); // empty string with a space '';
+const allJoined3 = word.join(','); // empty string with a',';
 console.log(allJoined3);
 
-const allJoined4 = word.join(', '); // empty string with a space '';
+const allJoined4 = word.join(', '); // empty string with a ', ';
 console.log(allJoined4);
